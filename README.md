@@ -334,14 +334,14 @@
         </section>
     </main>
     <footer>
-        <p>Contacto: Fsolyluna@hotmail.com | Tel: +52 123 456 7890</p>
+        <p>Contacto: Fsolyluna@hotmail.com | Tel: +52 331 000 0793</p>
         <p>Síguenos en:
             <a href="#">Facebook</a>
             <a href="#">Instagram</a>
             <a href="#">LinkedIn</a>
         </p>
     </footer>
-    <a href="https://wa.me/523315841619" target="_blank" style="position: fixed; bottom: 20px; right: 20px; background-color: #25D366; color: white; padding: 15px; border-radius: 50%; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <a href="https://wa.me/523310000793" target="_blank" style="position: fixed; bottom: 20px; right: 20px; background-color: #25D366; color: white; padding: 15px; border-radius: 50%; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
         <i class="fab fa-whatsapp" style="font-size: 24px;"></i>
     </a>
 </body>
