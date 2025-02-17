@@ -44,20 +44,20 @@
             text-align: center;
         }
         header h1 {
-            font-size: 72px;
+            font-size: 80px;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
             background-color: rgba(0, 0, 0, 0.86);
             display: inline-block;
-            padding: 20px 40px;
+            padding: 30px 45px;
             border-radius: 10px;
         }
         header p {
-            font-size: 24px;
+            font-size: 32px;
             margin-top: 20px;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
             background-color: rgba(0, 0, 0, 0.86);
             display: inline-block;
-            padding: 10px 20px;
+            padding: 15px 25px;
             border-radius: 5px;
         }
         section {
@@ -215,7 +215,7 @@
 <body>
     <header>
         <h1>D&F Precisión</h1>
-        <p>Precisión en cada pieza, calidad en cada proyecto.</p>
+        <p>"Precisión en cada pieza, calidad en cada proyecto"</p>
     </header>
     <main>
         <section>
@@ -360,3 +360,4 @@
     </a>
 </body>
 </html>
+
